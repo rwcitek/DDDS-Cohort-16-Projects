@@ -1,1 +1,2 @@
-- https://github.com/
+- **Notebook:** https://github.com/etmcrae/Project-1/blob/main/Emily_Project_1COMPLETE.ipynb
+- **Presentation:** https://www.canva.com/design/DAGgahe423s/lrAz2Nptj2tgzmH-fTi-7Q/edit?utm_content=DAGgahe423s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
