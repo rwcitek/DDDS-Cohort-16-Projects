@@ -1,1 +1,1 @@
-https://colab.research.google.com/drive/10WEhnMEgbieQ7yzrOhaFK2jMCxpgIuRN#scrollTo=1UNUOBJAH5V-
+https://github.com/EmmarieR/CNM-DeepDive-Data-Science-Projects/blob/main/Project_2.ipynb
