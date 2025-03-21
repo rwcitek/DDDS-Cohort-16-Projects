@@ -1,1 +1,2 @@
-- https://github.com/
+- **Notebook:** https://github.com/etmcrae/Project-2/blob/main/HousingProject2_EMCRAE.ipynb
+- **Presentation:** https://www.canva.com/design/DAGiSWE_r00/xe_nAa6X2htiHcLZ9jxZsg/edit?utm_content=DAGiSWE_r00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
