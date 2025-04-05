@@ -1,1 +1,1 @@
-- [https://github.com/](https://github.com/Valerie-Perea/data_science_projects_vp/blob/main/VP_Project_3.ipynb)
+- https://github.com/Valerie-Perea/data_science_projects_vp/blob/main/VP_Project_3.ipynb
