@@ -1,2 +1,1 @@
-
-(https://github.com/Kdavis2025/Projects/blob/main/Project_3_SQL_Chinook.ipynb)
+- https://github.com/Kdavis2025/Projects/blob/main/Project_3_SQL_Chinook.ipynb
