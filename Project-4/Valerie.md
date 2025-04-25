@@ -1,2 +1,1 @@
-- [https://github.com/
-](https://github.com/Valerie-Perea/DDDS-Cohort-16-Projects/blob/main/VP_Spotify_Project4.ipynb)
+- https://github.com/Valerie-Perea/DDDS-Cohort-16-Projects/blob/main/VP_Spotify_Project4.ipynb
